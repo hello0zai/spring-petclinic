@@ -1,0 +1,17 @@
+
+https://stackoverflow.com/questions/2432764/how-do-i-change-the-uri-url-for-a-remote-git-repository
+
+
+docker compose -f docker-compose.yaml  up --build
+docker compose -f docker-compose.yaml  watch
+
+
+curl --request GET \
+  --url http://192.168.88.111:8080/vets \
+  --header 'content-type: application/json'
+
+https://stackoverflow.com/questions/48717646/docker-compose-down-with-a-non-default-yml-file-name
+
+git remote set-url origin new.git.url/here
+
+https://docs.docker.com/guides/java/develop/
